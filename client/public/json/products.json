@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Start wars",
+    "price": 79.99,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiLblVFfeGAokv8WRrVYQUGG4n0Z57fh_gJTPLhURdATEihZpL-ErAb5Ue8ZkBIGxWJRU&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzf_qPye_NSfIEEt7Vf5LpFAdIgZqecC6PA&s"
+    ],
+    "rating": 4.5,
+    "quantity": 25
+  },
+  {
+    "name": "Spider-man",
+    "price": 199.99,
+    "images": [
+      "https://th.bing.com/th/id/R.875dc52cfa4a9bd929be5ce82751ecff?rik=go6QFPG32EHUVA&riu=http%3a%2f%2fmarveltoynews.com%2fwp-content%2fuploads%2f2019%2f04%2fLEGO-76128-Molten-Man-Battle-Box-Front-Spider-Man-Far-From-Home.jpg&ehk=DNKXPLhf2liv0qoPJwevYUATIUuUXP9c%2bNVrC%2f5St0U%3d&risl=&pid=ImgRaw&r=0",
+      "https://m.media-amazon.com/images/I/815E+P0mifL._SL1500_.jpg"
+    ],
+    "rating": 4.7,
+    "quantity": 21
+  },
+  {
+    "name": "Minecraft",
+    "price": 49.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt195407a3e1332413/21270_Prod_en-gb.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+      "https://grattan.scene7.com/is/image/OttoUK/600w/LEGO-Minecraft-The-Mooshroom-House-Building-Toy-Set~10J979FRSP.jpg"
+    ],
+    "rating": 4.3,
+    "quantity": 91
+  },
+  {
+    "name": "Batman",
+    "price": 109.99,
+    "images": [
+      "https://i5.walmartimages.com/asr/f474381a-6fcf-4c1d-b0e3-55428285082a_4.5771a7cf95164f766c8283c876a2e8c9.jpeg",
+      "https://images-cdn.ubuy.co.id/634efe770b5b791c282913e2-lego-the-batman-movie-batcave-break-in.jpg"
+    ],
+    "rating": 4.6,
+    "quantity": 14
+  },
+  {
+    "name": "ferrari lego",
+    "price": 329.99,
+    "images": [
+      "https://i.ebayimg.com/images/g/nnUAAOSwlHRfzxoD/s-l1200.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrroXJTg8wAdOxvATdsD8vBh-XFwFc6W3V1eV2cjwfXQvl38O0X5s1eqqDT5cDpll7Ub4&usqp=CAU"
+    ],
+    "rating": 4.8,
+    "quantity": 100
+  },
+
+  {
+    "name": "Lego City Police Station",
+    "price": 159.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt8a5b2f9072b3aa6d/60246_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81sVv7OlXHL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.5,
+    "quantity": 40
+  },
+  {
+    "name": "Lego Friends Heartlake City",
+    "price": 89.99,
+    "images": [
+      "https://image.smythstoys.com/zoom/222926_2.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/71a3+7qk3QL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.4,
+    "quantity": 32
+  },
+  {
+    "name": "Lego Creator Expert Roller Coaster",
+    "price": 379.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt68a1fbbc4d3b5b2d/10261_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91mnsdZj8ML._AC_SL1500_.jpg"
+    ],
+    "rating": 4.9,
+    "quantity": 12
+  },
+  {
+    "name": "Lego Technic Bugatti Chiron",
+    "price": 349.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt46b7f4b8ab8a5c13/42083_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91L7aJ+XX-L._AC_SL1500_.jpg"
+    ],
+    "rating": 4.8,
+    "quantity": 8
+  },
+  {
+    "name": "Lego Ninjago Fire Temple",
+    "price": 129.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1b1d5f8f7c5e1f36/70633_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81HWK6Q1pHL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.6,
+    "quantity": 22
+  },
+  {
+    "name": "Lego Harry Potter Hogwarts Castle",
+    "price": 399.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt11f0f1f7d8a5d2c3/71043_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81v5rH9e9ML._AC_SL1500_.jpg"
+    ],
+    "rating": 4.9,
+    "quantity": 7
+  },
+  {
+    "name": "Lego Star Wars Millennium Falcon",
+    "price": 799.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt1a2e4f0a6f4e2e1b/75192_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91S2x3eDqDL._AC_SL1500_.jpg"
+    ],
+    "rating": 5.0,
+    "quantity": 5
+  },
+  {
+    "name": "Lego Disney Castle",
+    "price": 349.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt72a1e8f9f2f1d7c4/71040_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81X0YV9XwDL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.7,
+    "quantity": 10
+  },
+  {
+    "name": "Lego Ideas Ship in a Bottle",
+    "price": 199.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt64f2e4b7b5e1f8c6/21313_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81z5XJ3hG0L._AC_SL1500_.jpg"
+    ],
+    "rating": 4.6,
+    "quantity": 15
+  },
+  {
+    "name": "Lego Architecture Statue of Liberty",
+    "price": 119.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt4a1f5b6a2c1b8d1c/21042_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/71QkJkM2SIL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.5,
+    "quantity": 18
+  },
+  {
+    "name": "Lego Marvel Avengers Tower",
+    "price": 299.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt22f3d4a7c5f3b4a1/76166_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91G0DFLQhXL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.8,
+    "quantity": 14
+  },
+  {
+    "name": "Lego Creator Expert Downtown Diner",
+    "price": 159.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt12a3f5b6c4e1a2d3/10260_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81U5G0wH9kL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.7,
+    "quantity": 20
+  },
+  {
+    "name": "Lego Technic Lamborghini Sián",
+    "price": 379.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt3c4f5a6d2b1c8f1d/42115_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91vQ3Z1zWGL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.9,
+    "quantity": 6
+  },
+  {
+    "name": "Lego Jurassic World T. rex Rampage",
+    "price": 149.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt23f4d6a1b7c5d6e1/75936_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/81H5gk2JqHL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.6,
+    "quantity": 30
+  },
+  {
+    "name": "Lego City Fire Station",
+    "price": 149.99,
+    "images": [
+      "https://m.media-amazon.com/images/I/81hjKr5g5hL.jpg",
+      "https://flitit.com/cdn/shop/products/lego-toys-lego-city-fire-station-and-fire-engine-38717349691613.jpg?v=1674228845"
+    ],
+    "rating": 4.5,
+    "quantity": 25
+  },
+  {
+    "name": "Lego Creator Expert Bookshop",
+    "price": 229.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt23c4f5a6b7d8e1f/10270_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91g3JhM9b-L._AC_SL1500_.jpg"
+    ],
+    "rating": 4.8,
+    "quantity": 12
+  },
+  {
+    "name": "Lego Ninjago City Docks",
+    "price": 299.99,
+    "images": [
+      "https://www.lego.com/cdn/cs/set/assets/blt45f6a7c3d1b2e4a2/70657_Prod.png",
+      "https://images-na.ssl-images-amazon.com/images/I/91T1m4KL8WL._AC_SL1500_.jpg"
+    ],
+    "rating": 4.9,
+    "quantity": 10
+  }
+]

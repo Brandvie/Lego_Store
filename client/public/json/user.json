@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "avatar": ""
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "avatar": ""
+  },
+  {
+    "name": "Carol Davis",
+    "email": "carol.davis@example.com",
+    "avatar": ""
+  },
+  {
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "avatar": ""
+  },
+  {
+    "name": "Eve Martinez",
+    "email": "eve.martinez@example.com",
+    "avatar": ""
+  }
+]

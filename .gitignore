@@ -1,0 +1,6 @@
+node_modules/
+client/node_modules/
+server/certs/private.pem
+**/.env
+**/.env.*
+!**/.env.example
